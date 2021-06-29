@@ -1,0 +1,129 @@
+body{
+  padding: 80px;
+  color:white;
+  background-color: black;
+}
+.header{
+  margin-bottom: 90px;
+  display:inline-flex;
+}
+.blue{
+  margin-top: 25px;
+}
+.Marvel{
+  margin-left: 400px;
+  cursor: pointer;
+}
+.Enterprise{
+  margin-left: 20px;
+  cursor: pointer;
+}
+.pricing{
+  margin-left: 20px;
+  cursor: pointer;
+}
+.signin{
+ margin-left: 20px;
+ cursor: pointer;
+}
+.signup{
+  margin-left: 20px;
+  padding:20px;
+  border-radius:20px;
+  cursor: pointer;
+}
+.firstdiv{
+  display: flex;
+  margin-bottom: 90px;
+}
+.submit{
+  border-radius: 12px;
+  padding: 10px;
+  background-color:#2c87f0;
+}
+.view{
+  margin-left: 20px;
+  padding: 10px;
+  border-radius: 15px;
+}
+.imgdiv{
+  margin-left: 10px;
+}
+.seconddiv{
+  margin-bottom: 90px;
+  text-align:center;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.thirddiv{
+  display: flex;
+  margin-bottom: 90px;
+}
+.secondimage{
+  margin-left: 100px;
+}
+.thirdimage{
+  margin-left: 100px;
+}
+.fourthdiv{
+  display: flex;
+  margin-bottom: 90px;
+}
+.partner{
+  border-radius: 12px;
+  padding:10px;
+  background-color:white;
+}
+.integration{
+  margin-left: 20px;
+  border-radius: 12px;
+  color: white;
+  background-color: black;
+}
+.imgdiv2{
+  margin-left: 10px;
+}
+
+.fifthdiv{
+  display: flex;
+  margin-bottom: 90px;
+}
+.partner{
+  border-radius: 8px;
+  padding:10px;
+  background-color:white;
+}
+.integration{
+  margin-left: 20px;
+  border-radius: 12px;
+  padding:10px;
+  color:white;
+  background-color: black;
+}
+.imgdiv3{
+  margin-left: 10px;
+}
+.lastdiv{
+  display: flex;
+  margin-left: 30px;
+}
+.whitelogo{
+  margin-left: 40px;
+  margin-top: 27px;
+}
+.footer1{
+  margin-left: 40px;
+}
+.footer2{
+  margin-left: 40px;
+}
+.footer3{
+  margin-left: 40px;
+}
+.footer4{
+  margin-left: 40px;
+}
+.footer5{
+  margin-left: 40px;
+}
+
